@@ -5,3 +5,5 @@ Technology stack
 - PostgreSQL
 - Django Rest Framework
 - JWT
+- React
+- Typescript
